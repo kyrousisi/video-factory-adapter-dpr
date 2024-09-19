@@ -1,0 +1,111 @@
+# Ignore Visual Studio temporary files, build results, and
+# common node modules
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build directory
+[Bb]uild/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Backup and restore files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework migrations
+[Mm]igrations/
+
+# Rider projects
+.idea/
+*.sln.iml
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+# ASP.NET Core
+project.json
+project.json.lock
+dnx.lock
+
+# Logs
+*.log
+
+# Web specific files
+node_modules/
+bower_components/
+jspm_packages/
+wwwroot/lib/
+
+# NuGet packages
+*.nupkg
+# Include if you have the packages folder checked in
+#!packages/*/
+
+# Uncomment if using .NET Core
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+_ReSharper.Caches/
+JetBrains/
+
+# Rider
+.idea/
